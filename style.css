@@ -2,12 +2,14 @@
     margin: 0px;
     color: #40514e;
     font-family: 'merriweather', serif;
+  
     
 }
 .top_container{
    background-color:#EAF6F6;
     background-size:auto;
     text-align: center;
+    display:flex;
     padding: 20px;
     font-family:Georgia, 'Times New Roman', Times, serif;
 }
